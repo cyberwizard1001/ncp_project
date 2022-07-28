@@ -1,10 +1,13 @@
-.top-bar-title{
-    font-size: 50;
-    font-weight: bolder;
-    font-family: "Raleway";
-    letter-spacing: 0.1rem; 
-    color: #FF002E;
-   }
+ .top-bar-title{
+  padding-top: 1.0rem;
+  padding-left: 0.8rem;
+  font-weight: bolder;
+  font-family: "Raleway";
+  letter-spacing: 0.1rem; 
+  color: #FF002E;
+  background-color: #1E2126;
+  margin: 0;
+ }
  
  * {
     box-sizing: border-box;

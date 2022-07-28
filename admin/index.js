@@ -15,7 +15,6 @@ userForms.classList.remove('bounceLeft')
 userForms.classList.add('bounceRight')
 }, false)
 
-
 $(document).foundation();
 var stickyElem = new Foundation.Sticky($(".top-bar"), {
   marginTop: 0
