@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Add PC</title>
+    <title>Add Game</title>
     <link rel="stylesheet"  href="styles.css" type="text/css">  
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Raleway">
@@ -20,9 +20,8 @@
     <div class="user_options-container">
       <div class="user_options-text">
         <div class="user_options-unregistered">
-          <h2 class="user_unregistered-title">Add a PC</h2>
+          <h2 class="user_unregistered-title">Add a Locationn</h2>
           <p class="user_unregistered-text" style="padding-bottom:1rem">Make sure the information entered is valid and has been checked for errors.</p>
-          <a class="user_unregistered-signup" id="add-button" href="add_component.html">ADD COMPONENT INSTEAD</a>
         </div>
      <div class="user_options-forms" id="user_options-forms" style="padding: 2rem;">
           <form class="forms_form">
@@ -32,32 +31,27 @@
               </div>
               <mark>This name will be displayed on the product page</mark>
               <div style="margin: 20;"><p></p></div>
-              <div class="forms_field">
-                <input type="text" placeholder="OEM (Original Equipment Maufacturer)" class="forms_field-input" required />
+                <input type="number" placeholder="Ratings" class="forms_field-input" required />
               </div>
               <div class="forms_field">
-                <input type="number " placeholder="Price" class="forms_field-input" required />
+                <select class="forms_field-input" required>
+                  <option value="">Category</option>
+                  <option value="Store">Store</option>
+                  <option value="Service">Service</option>
+                  <option value="Store/Service">Store/Service</option>
+                </select>
               </div>
               <div class="forms_field">
-                <input type="url" placeholder="Purchase link" class="forms_field-input" required />
+                <input type="text" placeholder="Address" class="forms_field-input" required />
               </div>
               <div class="forms_field">
-                <input type="number" placeholder="Service location (enter ID)" class="forms_field-input" required />
+                <input type="text" placeholder="Ratings" class="forms_field-input" required />
               </div>
               <div class="forms_field">
-                <input type="text" placeholder="CPU" class="forms_field-input" required />
-              </div>
-              <div class="forms_field">
-                <input type="text" placeholder="GPU (Enter NA if invalid)" class="forms_field-input" required />
-              </div>
-              <div class="forms_field">
-                <input type="text" placeholder="Memory" class="forms_field-input" required />
-              </div>
-              <div class="forms_field">
-                <input type="text" placeholder="Storage" class="forms_field-input" required />
+                <input type="date" placeholder="Date of addition" class="forms_field-input" required />
               </div>
             <div class="forms_buttons"></div>
-              <input type="submit" value="ADD DEVICE" class="forms_buttons-action">
+              <input type="submit" value="ADD LOCATION" class="forms_buttons-action">
             </div>
           </form>
         </div>
