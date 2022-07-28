@@ -10,13 +10,21 @@ PC Picker: A concept e-commerce website (work in progress) that is targetted at 
 ## Forms:
 
 → Login 
+
 → Sign up
+
 → Admin login 
+
 → Add PC 
+
 → Add component
+
 → Add software 
+
 → Add game 
+
 → Requirement Elicitation 
+
 → Add store / service center
 
 
