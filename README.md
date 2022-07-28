@@ -26,6 +26,6 @@ PC Picker: A concept e-commerce website (work in progress) that is targetted at 
 
 
 
-**Done by: Nirmal K**
-**Roll No: CB.EN.U4CSE19038**
-**Class: CSE A** 
+**Done by: Nirmal K**<br>
+**Roll No: CB.EN.U4CSE19038**<br>
+**Class: CSE A** <br>
