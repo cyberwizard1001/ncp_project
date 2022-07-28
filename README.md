@@ -6,8 +6,6 @@ PC Picker: A concept e-commerce website (work in progress) that is targetted at 
 
 #### Deployed: 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3196bf74-5f37-4943-8c4b-965a6a8edb1c/deploy-status)](https://app.netlify.com/sites/unrivaled-pastelito-5f5a6d/deploys)
-
-
 [Click Here](https://unrivaled-pastelito-5f5a6d.netlify.app/)
 
 ## Forms:
