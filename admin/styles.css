@@ -18,6 +18,14 @@
     font-size: 12px;
     line-height: 1em;
   }
+
+  select{
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    line-height: 0em;
+    color: #1E2126;
+    background-color: #1E2126;
+  }
   
   button {
     background-color: transparent;
