@@ -1,0 +1,44 @@
+<!DOCTYPE root-element SYSTEM "address.dtd">
+
+<product>
+
+    <device category = "PC">
+    <productid>DELLi73080NVME5128U</productid>
+    <OEM>Dell</OEM>
+    <price>Rs 200000.00</price>
+    <servicelocations>123</servicelocations>
+    <cpu>Intel i710670</cpu>
+    <address>
+        <name>Nirmal</name>
+        <no>9789407592</no>
+    </address>
+    </device>
+
+    <device category = "PC">
+    <productid>DELLi73080NVME5128U</productid>
+    <OEM>Dell</OEM>
+    <servicelocations>123</servicelocations>
+    <cpu>Intel i710670</cpu>
+    <additionalinfo>
+        <p> &quot;This is a very long line&quot;
+        <!--Comment--> 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line 
+        This is a very long line
+        </p>
+    </additionalinfo>
+    </device>
+
+</product>
+
+
+
+
+
+
+

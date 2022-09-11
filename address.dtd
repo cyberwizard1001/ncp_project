@@ -1,0 +1,6 @@
+<!DOCTYPE address [
+    <!ELEMENT address (name, no)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT no (#PCDATA)>
+]
+>

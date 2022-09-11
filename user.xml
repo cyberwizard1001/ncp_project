@@ -1,0 +1,36 @@
+
+<customer>
+    <category category="user1">
+    <username>nirmal</username>
+    <password>thisisahashedpassword</password>
+    <user_id>user_1234</user_id>
+    <city>Coimbatore</city>
+    <pincode>641022</pincode>
+    <budget_lower>123000</budget_lower>
+    <budget_upper>200000</budget_upper>
+    <form_factor>PC</form_factor>
+    </category>
+
+    <category category="user2">
+    <username>nirmal1</username>
+    <password>thispasswordisfancy</password>
+    <user_id>user_12345</user_id>
+    <city>Coimbatore</city>
+    <pincode>641012</pincode>
+    <budget_lower>12000</budget_lower>
+    <budget_upper>20000</budget_upper>
+    <form_factor>PC</form_factor>
+    </category>
+
+    <category category="user3">
+    <username>testuser</username>
+    <password>thisisatestpassword</password>
+    <user_id>user_12345</user_id>
+    <city>Coimbatore</city>
+    <pincode>641021</pincode>
+    <budget_lower>13000</budget_lower>
+    <budget_upper>30000</budget_upper>
+    <form_factor>PC</form_factor>
+    </category>
+
+</customer>
